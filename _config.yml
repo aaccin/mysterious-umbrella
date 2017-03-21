@@ -1,0 +1,26 @@
+markdown: rdiscount
+pygments: true
+permalink: /:year/:month/:day/:title.html
+name: "Season"
+root: ''
+
+author: "cyw"
+atom-baseurl: "https://blog.chenyunwen.cn"
+disqus: "atchenreview"
+
+navigations:
+  - title: Archive
+    class: fa fa-list-ul
+    href: /archive.html
+  - title: Tags
+    class: fa fa-tags
+    href: /tags.html
+  - title: About
+    class: fa fa-user
+    href: /about.html
+  - title: MeBlog
+    class: fa fa-film
+    href: /blogs.html
+  - title: Blogroll
+    class: fa fa-link
+    href: /links.html
