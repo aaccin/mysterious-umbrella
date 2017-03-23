@@ -1,8 +1,8 @@
-markdown: rdiscount
-pygments: true
+markdown: "rdiscount"
+pygments: "true"
 permalink: "/:year/:month/:day/:title.html"
-name: "Season"i
-root: ''
+name: "Season"
+root: ""
 
 author: "cyw"
 atom-baseurl: "https://i.chenyunwen.cn"
