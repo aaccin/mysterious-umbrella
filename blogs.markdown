@@ -5,23 +5,17 @@ comments : false
 layout: page
 ---
 
-*  **技术Blog**
+*  **Blog**
 
-   [http://chenyunwen.cn](http://chenyunwen.cn)
-
-   Node.js - Hexo
+   [记录](http://chenyunwen.cn)
 
 *  **我的生活记录**
 
-   [http://ayu-wen.blog.163.com/](http://ayu-wen.blog.163.com/)
-
-   活在时光里。根脉蔓延的鸿沟，我试着一跃而过。
+   [活在时光里。根脉蔓延的鸿沟，我试着一跃而过](http://ayu-wen.blog.163.com/)
 
 *  **感悟**
 
-   [Review](http://blog.chenyunwen.cn/)
-
-   都是时光惹得错！
+   [都是时光惹得错!](http://i.chenyunwen.cn/)
 
 ---
 

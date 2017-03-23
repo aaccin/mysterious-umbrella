@@ -1,11 +1,11 @@
 markdown: rdiscount
 pygments: true
 permalink: /:year/:month/:day/:title.html
-name: "Season"
+name: "Season"i
 root: ''
 
 author: "cyw"
-atom-baseurl: "https://blog.chenyunwen.cn"
+atom-baseurl: "https://i.chenyunwen.cn"
 disqus: "atchenreview"
 
 navigations:
